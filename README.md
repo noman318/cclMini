@@ -1,1 +1,1 @@
-# cclMini
+# Test payment gateway using RazorPay
